@@ -49,5 +49,3 @@ score_game(random_predict)
 
 
 print(f'Количество попыток: {random_predict(10)}')
-
-#ПРОВЕРКА СВЯЗИ ГИТА
